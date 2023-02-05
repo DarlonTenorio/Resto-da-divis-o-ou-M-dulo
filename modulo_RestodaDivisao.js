@@ -1,3 +1,4 @@
+
 var dividendo = prompt("Digite um número: ");
 var divisor = prompt("Digite outro número: ");
 
