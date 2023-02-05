@@ -11,8 +11,8 @@ O módulo, também conhecido como resto da divisão, retorna 'o resto da divisã
 
 
 <p>Exemplo:<p>
-    <p>A = 10, B = 3<p>
-    <p>10 / 3 = 3 com resto de 1<p>
-    <p>10 - (3 * 3) = 1<p>
-    <p>O resultado da divisão de 10 por 3 é 3 com resto 1.
+    A = 10, B = 3<br>
+    10 / 3 = 3 com resto de 1<br>
+    10 - (3 * 3) = 1<br>
+    O resultado da divisão de 10 por 3 é 3 com resto 1.<br>
 <p>
